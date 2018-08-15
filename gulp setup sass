@@ -1,3 +1,4 @@
 sudo npm init
 sudo npm install --save-dev gulp
+sudo npm audit fix --force
 sudo npm install --unsafe-perm --save-dev gulp-sass
